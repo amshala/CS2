@@ -9,5 +9,4 @@ Follow these guidelines: [Rubric](https://acrobat.adobe.com/link/review?uri=urn:
 ## Extra Materials
 [About Malaria](https://www.cdc.gov/malaria/diagnosis_treatment/diagnosis.html#:~:text=Malaria%20parasites%20can%20be%20identified,the%20parasites%20a%20distinctive%20appearance)
 
-[Image Classification]
-(https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/)
+[Image Classification] (https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/)
