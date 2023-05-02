@@ -1,7 +1,7 @@
 # Detecting Malaria
 
 ## Downloading Data
-The data is in the "DATA" folder of this repo. When you open the folder you should see the folder "cell images". Inside that folder there should be two folders: "Parasitized" and "Uninfected". In each of these folders there will be 13799 images depecting parasitized and uninfected cells respectively.
+The data is in the "DATA" folder of this repo. When you open the folder you should see the folder "cell images". Inside that folder there should be two folders: "Parasitized" and "Uninfected". In each of these folders there will be 13799 images depicting parasitized and uninfected cells respectively.
 
 ## Hook Document
 This is where you start: [Hook Document](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:2d89c3fa-bf63-30ad-ad73-bb8a20329543)
